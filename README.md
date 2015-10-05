@@ -28,5 +28,32 @@ My subject is EE<p>
 </table>
 <img src="IMG_301248.jpg">
 
+
+<div id="boxMySpace">
+                    <div class="boxMySpace0">
+                        <div class="sidetitle">自我介紹</div>
+                    </div>
+                    <div class="boxFolder1">
+                        <div class="boxMySpace1">
+                            <div class="side">
+                                <div class="boxMySpaceImg">
+                                    <a href="/joker2000tw/about" class="fun_click"  data-tagname="blog_26">
+                                    <div>JOKER</div>
+                                      <img src="/show/station/joker2000tw/" border="0" onError="this.src='/img/icon_head.gif'">
+                                    </a>
+                                </div>
+                            </div>
+                <input type="hidden" name="mypaper_id" id="mypaper_id" value="joker2000tw">
+                <input type="hidden" name="friend_apply_status" id="friend_apply_status" value="">
+                            <div class="boxMySpaceDis">
+                                <span>照照鏡子，是你是我</span>
+                                <div class="mastsoclarea">
+                                    
+                                    
+                                </div>
+                                
+                                
+
+
 </body>
 </html>
